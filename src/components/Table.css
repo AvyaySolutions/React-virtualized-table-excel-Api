@@ -1,0 +1,74 @@
+.searchContainer {
+    color: blue;
+    margin:auto;
+    position: relative;
+    width: 300px;
+    height: 40px;
+    border: 4px solid #2988b9;
+    padding: 0px 10px;
+    border-radius: 50px;
+    background-color: white;
+}
+.elementContainer{
+    width: 100%;
+    height: 100%;
+    vertical-align: middle;
+}
+.search{
+    border: none;
+    height: 100%;
+    width: 100%;
+    padding: 0px 5px;
+    border-radius: 50px;
+    font-size: 18px;
+    font-family: "Nunito";
+    color: #424242;
+    font-weight: 500;
+}
+.search:focus{
+    outline: none;
+}
+.fontAwesome_icon{
+    font-size: 26;
+    color: #2980b9;
+}
+
+ .ReactVirtualized__Table__row:hover{
+ background: rgb(186, 223, 223) ;
+}
+/* .ReactVirtualized__Table__row :nth-child(even){
+    background-color: aquamarine ;
+}
+.ReactVirtualized__Table__row :nth-child(odd){
+    background-color: rgb(172, 155, 59) ;
+} */
+
+.ReactVirtualized__Table__Grid {   /* row body outline */
+    outline: none;
+  }
+  .ReactVirtualized__Table__headerColumn {    /* header data color */
+    color: navy;
+}
+.ReactVirtualized__Table__headerRow {   /* header background color */
+    background: rgb(67, 155, 67);  
+    border: 1px solid gray;
+}
+.ReactVirtualized__Table__row {        /* row container background color */
+    background: papayawhip;
+	  border-right: 1px solid gray;
+    border-left: 1px solid gray;
+    border-bottom: 1px solid gray;
+  }
+  .Wrapper_outer{
+    margin: 10px;
+  }
+
+.ReactVirtualized__Table__rowColumn{
+overflow:auto;
+justify-content: center !important;
+
+}
+body {
+    background-color: rgba(210, 227, 233, 0.7)
+  }
+
