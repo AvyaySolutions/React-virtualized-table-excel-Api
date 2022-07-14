@@ -1,3 +1,5 @@
+virtualized Table featured with sorting, filtering, searching and pagination for multipurpose. renders data for local json folders, Api calling and Also we can upload excel file and can see data, fully automated, no need to hardcode, table automatically reads data and displays table headings and cell data. and shows popup message if we upload file other than excel. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
